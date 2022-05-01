@@ -4,8 +4,8 @@ My name Lucas Vilar I am 21 years old and my nickname is "lucasvil4r"! I am a be
 
 <div>
 <a href="https://github.com/lucasvil4r">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvil4r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvil4r&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasvil4r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvil4r&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### I am learning:
