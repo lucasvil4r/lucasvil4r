@@ -1,6 +1,6 @@
   ### Hello Developers!👋 Welcome to my Github profile.
 
-My name Lucas Vilar I am 21 years old and my nickname is "lucasvil4r"! I am a beginner programmer with a strong desire to learn. I am convinced that I will enter the area of ​​technology to make a difference !.
+My name is Lucas Vilar, I am 21 years old and my nickname is "lucasvil4r"! I am a beginner programmer with a strong desire to learn. I am convinced that I will enter in the area of ​​technology to make a difference!
 
 <div>
 <a href="https://github.com/lucasvil4r">
