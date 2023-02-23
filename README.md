@@ -7,13 +7,13 @@ My name is Lucas Vilar, I'm 21 years old and my nickname is "lucasvil4r"! I am a
 <!--<img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasvil4r&theme=dracula"/>-->
 </div>
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvil4r&show_icons=true&theme=dracula&line_height=20" alt="**SEU NOME** github stats"/>
 </a>
 
-### Contact:
+## **Contact**
 
 <div>
 <a href="https://instagram.com/lucasvil4r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
