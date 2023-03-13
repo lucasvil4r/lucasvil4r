@@ -3,10 +3,13 @@
 My name is Lucas Vilar, I'm 21 years old and my nickname is "lucasvil4r"! I am a programmer with a strong desire to learn more and more. I am convinced that I am in the area of ​​technology to make a difference!
 
 
+<!--
 ## **GitHub Stats**
 
 [![lucasvil4r](https://github-readme-stats.vercel.app/api?username=lucasvil4r&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![lucasvil4r](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvil4r&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 ## **Contact**
 
