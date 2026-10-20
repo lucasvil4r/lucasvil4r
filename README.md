@@ -16,7 +16,7 @@
 | **Languages** | C#, PHP, Python, TypeScript, DataFlex, SQL |
 | **Frameworks** | .NET / ASP.NET Core, Entity Framework Core, Laravel, Phalcon, NestJS |
 | **Databases** | SQL Server, PostgreSQL, MySQL, NoSQL |
-| **Cloud & DevOps** | AWS (EC2, RDS), Docker, Docker Compose, GitHub Actions |
+| **Cloud & DevOps** | AWS (EC2, RDS, EKS, API Gateway, Lambda), Docker, Kubernetes, Terraform, GitHub Actions |
 | **Practices** | SOLID, Clean Architecture, Design Patterns, REST APIs, automated testing (xUnit) |
 
 ---
@@ -35,6 +35,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**Auto Repair Shop Management API**](https://github.com/tech-challenge-grupo-160/tech-challenge-oficina-mecanica) | REST API covering the full service-order workflow: customers, vehicles, services and parts catalog, quotes, stock validation, purchase orders and execution-time metrics. FIAP Tech Challenge (team project). | .NET 10, ASP.NET Core, EF Core, PostgreSQL, JWT, xUnit, Docker |
+| [**Kubernetes Infrastructure (IaC)**](https://github.com/tech-challenge-grupo-160/tech-challenge-infra-k8s) | Terraform-provisioned AWS infrastructure for the API: VPC with private subnets and NAT, EKS cluster with HPA and Cluster Autoscaler, API Gateway with JWT Lambda authorizer, internal ALB, ECR and Secrets Manager. Kustomize overlays for local (kind) and cloud, plus Terraform CI. FIAP Tech Challenge (team project). | Terraform, AWS (EKS, API Gateway, Lambda, ALB, ECR), Kubernetes, Kustomize, Datadog, GitHub Actions |
 | [**odoo-setup-br**](https://github.com/lucasvil4r/odoo-setup-br) | Project template for Odoo 18 with Brazilian fiscal localization (OCA), pinned dependencies, test suite and CI — standardizes new ERP implementations. | Python, Odoo 18, PostgreSQL, Docker, GitHub Actions |
 | [**apiclient-dll**](https://github.com/lucasvil4r/apiclient-dll) | HTTP client exposed via COM Interop so legacy systems (DataFlex) can consume modern REST APIs, with a shared core library and a .NET 8 CLI. | C#, .NET Framework 4.8, .NET 8, COM Interop |
 | [**sisenterprise**](https://github.com/lucasvil4r/sisenterprise) | Desktop ERP prototype: customers, suppliers, products, sales proposals, employees, payroll calculations and time tracking. | C#, WinForms, Entity Framework 6, SQL Server, Docker |
