@@ -1,21 +1,47 @@
-  ### Hello Developers!👋 Welcome to my Github profile.
+# Hi, I'm Lucas Vilar 👋
 
-My name is Lucas Vilar, my nickname is "lucasvil4r"! I am convinced that I am in the area of ​​technology to make a difference!
+**Back-end Developer** focused on software architecture — building and modernizing corporate systems with **C#/.NET** and **PHP/Laravel** on **AWS**.
 
+- 🏢 Back-end Developer at **GP Cabling and Security Solutions** (São Paulo, Brazil)
+- 🎓 Postgraduate student in **Software Architecture** at **FIAP**
+- 🔭 Currently focused on clean architecture, legacy modernization and AI applied to business systems
+- 📍 São Paulo, Brazil — open to remote, hybrid or on-site roles
 
-<!--
-## **GitHub Stats**
+---
 
-[![lucasvil4r](https://github-readme-stats.vercel.app/api?username=lucasvil4r&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![lucasvil4r](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvil4r&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech Stack
 
--->
+| Area | Technologies |
+|---|---|
+| **Languages** | C#, PHP, Python, TypeScript, DataFlex, SQL |
+| **Frameworks** | .NET / ASP.NET Core, Entity Framework Core, Laravel, Phalcon, NestJS |
+| **Databases** | SQL Server, PostgreSQL, MySQL, NoSQL |
+| **Cloud & DevOps** | AWS (EC2, RDS), Docker, Docker Compose, GitHub Actions |
+| **Practices** | SOLID, Clean Architecture, Design Patterns, REST APIs, automated testing (xUnit) |
 
-## **Contact**
+---
 
-<div>
-<a href="https://instagram.com/lucasvil4r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--<a href = "http://malito:lucas.vilar95784@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
-<a href="https://www.linkedin.com/in/lucasvil4r" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<!--<a href="http://malito:lucasvilar-celestino@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;"></a>-->
-</div>      
+## 💼 Highlights
+
+- **Legacy ERP modernization** — maintenance and evolution of an ERP (DataFlex + C#/.NET) across fiscal, sales, financial and accounting modules.
+- **AI in production** — AI integration in the ERP for automatic data extraction from images (business cards, documents, labels), reducing manual data entry.
+- **Cloud migration** — moved the ERP infrastructure to AWS (EC2, RDS): **~50% less downtime** and **~30% better performance**.
+- **Architecture redesign** — refactored monolithic applications with SOLID, Clean Architecture and Design Patterns.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Auto Repair Shop Management API**](https://github.com/tech-challenge-grupo-160/tech-challenge-oficina-mecanica) | REST API covering the full service-order workflow: customers, vehicles, services and parts catalog, quotes, stock validation, purchase orders and execution-time metrics. FIAP Tech Challenge (team project). | .NET 10, ASP.NET Core, EF Core, PostgreSQL, JWT, xUnit, Docker |
+| [**odoo-setup-br**](https://github.com/lucasvil4r/odoo-setup-br) | Project template for Odoo 18 with Brazilian fiscal localization (OCA), pinned dependencies, test suite and CI — standardizes new ERP implementations. | Python, Odoo 18, PostgreSQL, Docker, GitHub Actions |
+| [**apiclient-dll**](https://github.com/lucasvil4r/apiclient-dll) | HTTP client exposed via COM Interop so legacy systems (DataFlex) can consume modern REST APIs, with a shared core library and a .NET 8 CLI. | C#, .NET Framework 4.8, .NET 8, COM Interop |
+| [**sisenterprise**](https://github.com/lucasvil4r/sisenterprise) | Desktop ERP prototype: customers, suppliers, products, sales proposals, employees, payroll calculations and time tracking. | C#, WinForms, Entity Framework 6, SQL Server, Docker |
+| [**binary-tree-laravel**](https://github.com/lucasvil4r/binary-tree-laravel) | Binary tree simulation with automatic node placement and left/right leg point calculation. | PHP, Laravel, MySQL, Redis, Docker |
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasvil4r-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvil4r/)
